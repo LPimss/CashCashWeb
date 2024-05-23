@@ -15,6 +15,7 @@ function controleurPrincipal($action) {
     $lesActions["validerInterventions"] = "validerInterventions.php";
     $lesActions["stats"] = "stats.php";
     $lesActions["generer"] = "generer.php";
+    $lesActions["affecter"] = "affecter.php";
 
 
 
